@@ -34,6 +34,16 @@ Our goal is to make traditional craftsmanship more accessible, discoverable, and
 
 ---
 
+# 🔗 Project Links
+
+* 🌐 Live Website: [Explore KalaSetu] ()
+  
+* 🎥 Website Demo Video: [Watch the Demo] ()
+  
+* 📊 SIH Project Presentation: [View the PPT] ()
+
+---
+
 ## 🌟 The Problem
 
 Traditional artisans and regional crafts often face challenges such as:
@@ -98,6 +108,22 @@ At the same time, customers can discover not only the product, but also the **cr
 
 ---
 
+## 🛠️ Technology Stack — KalaSetu
+
+Frontend: HTML5, CSS3, JavaScript, React
+
+Backend: Node.js, Express.js 
+
+Database: Browser LocalStorage and IndexedDB
+
+AI / Machine Learning: ML-based heritage price estimation, AI catalog prototype, planned LLM, RAG, and AI agents
+
+APIs and Integrations: BHASHINI API for multilingual translation and voice services; Razorpay Checkout (test mode)
+
+Deployment and Hosting: Cloud-based web hosting with API deployment support, frontend deployment platform to be confirmed
+
+---
+
 ## 🎤 Multilingual Artisan Communication
 
 KalaSetu integrates **BHASHINI** to support multilingual interaction between artisans and audiences.
@@ -122,6 +148,68 @@ Translation
 English / Digital Content
 
 ```
+---
+
+## 🏗️ System Architecture
+
+KalaSetu follows a modular architecture that connects artisans, customers, backend services, and external APIs to create a seamless digital experience for discovering and purchasing traditional crafts.
+
+High-Level Architecture
+
+                 ARTISANS & CUSTOMERS
+                          |
+                          v
+                 KALASETU USER INTERFACE
+                          |
+                          v
+                    BACKEND SERVER
+                          |
+             +------------+------------+
+             |            |            |
+             v            v            v
+        BHASHINI      AI SERVICES   PAYMENT GATEWAY
+             |            |            |
+             +------------+------------+
+                          |
+                          v
+                  RESPONSE TO USER
+
+Core Components
+
+* Frontend: Provides the user interface for artisan onboarding, craft discovery, product information, wishlists, and checkout.
+* Backend: Handles application requests and connects the frontend with the required services.
+* Multilingual Integration: Uses BHASHINI services to support voice input and language translation, helping artisans interact with the platform in their preferred language.
+* AI Integration: Supports AI-powered functionality where implemented in the application.
+* Payment Integration: Uses Razorpay for the payment checkout process.
+* Data Handling: Organizes artisan inputs, craft details, and product information for use within the application.
+
+Data Flow
+
+1. The artisan or customer interacts with the KalaSetu interface.
+2. The frontend sends the relevant request to the backend.
+3. The backend processes the request and connects to the appropriate external service when required.
+4. The application processes the response and displays the relevant information to the user.
+5. For purchases, the customer proceeds through the payment checkout flow.
+
+---
+
+## 💡 Innovation & Uniqueness
+
+KalaSetu combines traditional Indian craftsmanship with digital accessibility to help artisans showcase their work and connect with a wider audience.
+
+What Makes KalaSetu Different?
+
+* Multilingual Accessibility: Integrates BHASHINI services to support voice input and language translation, helping reduce language barriers for artisans.
+* Voice-Based Interaction: Simplifies the process of providing craft information through voice input.
+* Digital Craft Preservation: Creates a digital space to showcase traditional crafts, artisan experiences, and craft-related information.
+* Personalised Product Discovery: Helps customers explore crafts and manage their selections through product discovery and wishlist features.
+* Integrated Shopping Experience: Connects craft discovery with product information and a payment checkout flow.
+
+Our Approach
+
+KalaSetu aims to make digital tools more accessible to traditional artisans while helping customers discover the stories and cultural value behind Indian handicrafts.
+
+---
 
  # 🖥️ Website Walkthrough
 
@@ -297,3 +385,17 @@ Provides artisans with information about their business performance and progress
 <p align="center">
   <img src="inputdashboard4.jpeg" width="85%" alt="Dashboard Grow">
 </p>
+
+---
+
+## 🌍 Impact & Beneficiaries
+
+---
+
+KalaSetu aims to make traditional Indian crafts more accessible through digital technology while helping artisans showcase their work.
+
+* Artisans: Provides a digital platform to present their crafts and share craft-related information.
+* Rural Craft Communities: Aims to improve digital accessibility and visibility for traditional craftsmanship.
+* Customers: Makes it easier to explore traditional crafts and access product information.
+* Cultural Preservation: Supports the digital documentation and discovery of India’s diverse craft traditions.
+* Language Accessibility: Uses multilingual support to help reduce communication barriers between artisans and digital platforms.
