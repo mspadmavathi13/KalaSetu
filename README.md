@@ -39,7 +39,7 @@ Our goal is to make traditional craftsmanship more accessible, discoverable, and
   
 * 🎥 Website Demo Video: [Watch the Demo](https://youtu.be/ouG6S4th2M4)
   
-* 📊 SIH Project Presentation: [View the PPT](CodeLoom_KalaSetu(1).pdf)
+* 📊 SIH Project Presentation: [View the PPT](CodeLoom_KalaSetu.pdf)
 
 
 ## 🌟 The Problem
