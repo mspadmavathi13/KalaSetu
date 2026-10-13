@@ -35,11 +35,11 @@ Our goal is to make traditional craftsmanship more accessible, discoverable, and
 
 ## 🔗 Project Links
 
-* 🌐 Live Website: [Explore KalaSetu] ()
+* 🌐 Live Website: [Explore KalaSetu](https://kalasetu-backend-6gtj.onrender.com)
   
-* 🎥 Website Demo Video: [Watch the Demo] ()
+* 🎥 Website Demo Video: [Watch the Demo](https://youtu.be/ouG6S4th2M4)
   
-* 📊 SIH Project Presentation: [View the PPT] ()
+* 📊 SIH Project Presentation: [View the PPT]()
 
 
 ## 🌟 The Problem
