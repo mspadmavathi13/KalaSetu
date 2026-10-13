@@ -1,4 +1,5 @@
- <table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
+
+<table width="100%" cellpadding="25" cellspacing="0" bgcolor="#2B1917">
   <tr>
     <td width="28%" align="center" valign="middle">
       <img src="./pictures/kalaedited.jpeg" alt="KalaSetu Logo" width="190">
@@ -26,6 +27,31 @@
   🌐 <strong>Live Website:</strong>
   <a href="https://kalasetu-7y6n.onrender.com">Explore KalaSetu →</a>
 </p>
+
+<h2 align="center">🎥 Project Demo</h2>
+
+<p align="center">
+  Watch the KalaSetu walkthrough to explore the platform and its features.
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/ouG6S4th2M4">
+    <img
+      src="https://img.youtube.com/vi/ouG6S4th2M4/0.jpg"
+      alt="Watch KalaSetu Demo on YouTube"
+      width="85%">
+  </a>
+</p>
+
+<p align="center">
+  ▶ <strong>
+    <a href="https://youtu.be/ouG6S4th2M4">
+      Watch the full video on YouTube
+    </a>
+  </strong>
+</p>
+
+---
 
 # KalaSetu
 
